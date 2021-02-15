@@ -1,1 +1,1 @@
-# my-new-game
+Thanks for checking out my game
